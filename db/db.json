@@ -1,6 +1,9 @@
-[
+{
+  "notesArray": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "testing notes ",
+      "text": "note test 1 \nnote test 2 \nnote  test 3\n",
+      "id": "3a1ad4da-1d31-47e4-b7dd-6ec439b94942"
     }
-]
+  ]
+}
